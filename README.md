@@ -14,8 +14,8 @@ It's far from perfect, but it's a start.
 - Instant Lobby Creation (with roles!)
 - Automated Queue/Champ Select
   - Automatic Hover
-  - Instant Ban
-  - Rune Select
+  - Instant Random Ban Pick
+  - Rune Adjustment/Select
 - In-Game Behavior
   - Item Purchasing
   - Auto Heal
