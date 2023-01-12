@@ -23,3 +23,7 @@ It's far from perfect, but it's a start.
   - Spell Targetting (using bitmaps in memory to detect specific colors)
   - Use Summoner Spells
   - Automatic "Yes" FF vote
+- Additional Settings
+  - Disable API to run solely off of pixel detection
+  - Automatically rename exe
+  - Hide menu interface from screenshots/stream
