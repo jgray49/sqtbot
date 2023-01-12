@@ -4,9 +4,9 @@ This project was primarily made to learn C++, API requests, and the Windows API.
 It's far from perfect, but it's a start.
 
 # Key Features
-Currently Supported Champions:
--- Yuumi
--- Soraka
+Currently Supported Champions:  
+Yuumi  
+Soraka
 
 - Custom Behavior adjustable in UI
 
@@ -19,6 +19,10 @@ Currently Supported Champions:
   - Instant Ban
   - Rune Select
 - In-Game Behavior
-  - k
+  - Item Purchasing
+  - Auto Heal
+  - Spell Targetting
+  - Auto Summoner Spell
+  - Auto FF
 
 
