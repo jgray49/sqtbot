@@ -19,9 +19,7 @@ It's far from perfect, but it's a start.
   - Rune Adjustment/Select
 - In-Game Behavior
   - Item Purchasing
-  - Auto Heal
-  - Spell Targetting
-  - Auto Summoner Spell
-  - Auto FF
-
-
+  - Heal Teammate when missing health detected
+  - Spell Targetting (using bitmaps in memory to detect specific colors)
+  - Use Summoner Spells
+  - Automatic "Yes" FF vote
