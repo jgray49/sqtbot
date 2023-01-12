@@ -4,9 +4,7 @@ This project was primarily made to learn C++, API requests, and the Windows API.
 It's far from perfect, but it's a start.
 
 # Key Features
-Currently Supported Champions:  
-Yuumi  
-Soraka
+<b>Currently Supported Champions: Yuumi | Soraka</b>
 
 - Custom Behavior adjustable in UI
 
