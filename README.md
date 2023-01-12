@@ -5,8 +5,8 @@ It's far from perfect, but it's a start.
 
 # Key Features
 Currently Supported Champions:
-- Yuumi
-- Soraka
+-- Yuumi
+-- Soraka
 
 - Custom Behavior adjustable in UI
 
