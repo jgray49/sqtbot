@@ -27,3 +27,4 @@ It's far from perfect, but it's a start.
   - Disable API to run solely off of pixel detection
   - Automatically rename exe
   - Hide menu interface from screenshots/stream
+  - Prompts user to update when new version availble
