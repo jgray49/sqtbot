@@ -3,6 +3,9 @@ This project was primarily made to learn C++, API requests, and the Windows API.
 
 It's far from perfect, but it's a start.
 
+PROJECT IS PAUSED SORRY I DONT REALLY HAVE TIME BUT ONCE I GET A CHANCE ILL ADD OPTIMIZED LOGIC BETTER AIMED TO WIN, AS WELL AS LANGUAGE MODEL CHAT USE
+
+
 # Key Features
 <b>Currently Supported Champions: Yuumi | Soraka</b>
 
